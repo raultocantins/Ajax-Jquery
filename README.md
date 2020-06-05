@@ -1,5 +1,5 @@
 # Ajax-Jquery
-Trabalhando com requisições ajax com jquery.
+Navegação assincrona com ajax e jquery.
 
 Estrutura basica de navegação utilizando jquery-express-cors-bodyparser.
 
